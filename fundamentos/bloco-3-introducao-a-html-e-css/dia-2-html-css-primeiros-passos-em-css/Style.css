@@ -1,0 +1,27 @@
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+    background-color: #6E6975;
+  }
+
+  ul {
+    background: aquamarine;
+  }
+
+  .corclass {
+    background: #6E6975;
+  }
+
+  p {
+    font-weight: 600;
+    font-size: 3em;
+  }
+
+  body {
+    font-size: 16px;
+font-style: italic;
+line-height: 50px;
+text-align: center;
+text-decoration: underline;
+  }
