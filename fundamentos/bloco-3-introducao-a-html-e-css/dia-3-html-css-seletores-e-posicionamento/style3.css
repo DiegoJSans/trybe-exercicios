@@ -9,7 +9,7 @@ p {
 
 ol:hover {
     background-color: aqua;
-    
+    transition: 3s
 }
 
 h1:active {
