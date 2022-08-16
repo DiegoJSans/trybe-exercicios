@@ -10,16 +10,25 @@ div:hover {
 }
 div:first-of-type {
     color: red;
+    font-style: italic;
+    font-size: larger;
 } 
 div:first-of-type + div {
     color: green;
+    background-color: aqua;
 } 
 div:first-of-type + div + div{
     color: blue;
+    font-size: 25px;
+    font-style: italic;
 } 
 div:first-of-type + div + div + div {
     color: gold;
+    background-color: black;
 } 
 div:first-of-type + div + div + div + div{
     color: black;
+    font-style: italic;
 } 
+
+
