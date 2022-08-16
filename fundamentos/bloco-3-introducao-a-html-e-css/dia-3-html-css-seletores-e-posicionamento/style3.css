@@ -1,0 +1,7 @@
+/* - O texto das tags 'h1' e 'p' estejam centralizados.
+   - A cor de fundo da sua lista mude quando o cursor estiver sobre o item.
+   - A fonte do item mude quando ele for clicado. */
+
+h1 {
+   border: cornflowerblue;
+}
