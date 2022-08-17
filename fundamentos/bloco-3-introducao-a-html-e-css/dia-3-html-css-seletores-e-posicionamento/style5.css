@@ -13,7 +13,7 @@ ol {
 }
 
 ol li:nth-child(even) {
-  color:  green;
+  color: green;
 }
 
 ol li:nth-child(odd) {
@@ -31,8 +31,46 @@ h1 em {
 
 li {
   font-size: 20px;
-  }
+}
 
-  li em {
-    font-weight: bold;
-  }
+li em {
+  font-weight: bold;
+}
+
+.style-language li:nth-child(-n+3) {
+  color: blue;
+}
+
+.style-language li:nth-of-type(2) {
+  background-color: pink;
+}
+
+.style-link li:hover {
+  font-weight: bold;
+}
+
+.style-link li:nth-child(1) a:hover {
+  color: orange
+}
+
+.style-link li:nth-child(2) a:hover {
+  color: green
+}
+
+.style-link li:nth-child(3) a:hover {
+  color: black
+}
+
+.style-link li:nth-child(4) a:hover {
+  color: yellow
+}
+
+.style-link li:nth-child(5) a:hover {
+  color: green
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Fim do exercício. */
