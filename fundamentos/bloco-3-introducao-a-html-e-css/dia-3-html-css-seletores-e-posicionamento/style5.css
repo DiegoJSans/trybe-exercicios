@@ -19,3 +19,12 @@ ol li:nth-child(even) {
 ol li:nth-child(odd) {
   text-transform: uppercase;
 }
+
+.color-header {
+  color: red;
+}
+
+h1 em {
+  font-size: 40px;
+  border: 1px solid black;
+}
